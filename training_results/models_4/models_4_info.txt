@@ -1,0 +1,2 @@
+- cebraBehaviour model trained on neural data that HAS been filtered for stationary trials
+- Behaviour variable is FrameID

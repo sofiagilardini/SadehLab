@@ -1,0 +1,2 @@
+session: 5
+model architecture: offset10-model
